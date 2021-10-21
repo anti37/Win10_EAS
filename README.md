@@ -47,7 +47,11 @@
         
         <img src="https://github.com/anti37/Win10_EAS/blob/main/replica.png">
 
-11. Заходим в SQL Server под sa и присоединяем оставшиеся базы
+11. Заходим в SQL Server под sa и присоединяем оставшиеся базы, можно сделать сразу с пунктом выше
+
+    + AddrExt2.mdf
+    + AddrExt2Aux.mdf
+
 12. Настраиваем Справочник сертификатов
 
     Создаем профиль
