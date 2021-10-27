@@ -18,6 +18,7 @@
    + AddrExt2.mdf   
    + AddrExt2Aux.mdf   
    + ESPP
+   + sdo02
 
 4. Восстановливаемся из образа
 
