@@ -13,10 +13,10 @@
    >Сначало нужно остановить службу SQL Server
 
    + DB628000 - ваш индекс   
-   + AddrExt1.mdf   
-   + AddrExt1Aux.mdf   
-   + AddrExt2.mdf   
-   + AddrExt2Aux.mdf   
+   + AddrExt1  
+   + AddrExt1Aux
+   + AddrExt2
+   + AddrExt2Aux
    + ESPP
    + sdo02
 
