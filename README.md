@@ -68,7 +68,7 @@
 
     >Запускать от администратора
 
-    <img src="https://github.com/anti37/Win10_EAS/blob/main/crypto.png">
+    <img src="https://github.com/anti37/Win10_EAS/blob/main/config_crypto.png">
     
     >Не забываем поставить галочку в службе криптосервера, хотя проверено работает и без неё)
 
